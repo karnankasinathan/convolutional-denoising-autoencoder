@@ -43,7 +43,7 @@ Use the trained model to reconstruct images and visualize original, noisy, and r
 ## PROGRAM
 ### Name: Karnan K
 ### Register Number: 212222230062
-python
+```
 from tensorflow import keras
 from tensorflow.keras import layers
 from tensorflow.keras import utils
@@ -140,6 +140,7 @@ plt.show()
 
 
 ### Original vs Noisy Vs Reconstructed Image
+
 ![Untitled](https://github.com/user-attachments/assets/1a3bf04f-8b65-4f9c-851c-2bc5b45ce8fd)
 
 
